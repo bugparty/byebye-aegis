@@ -1,5 +1,5 @@
 # byebye-aegis
-one click uninstall aliyun aegis 一键删除阿里云安骑士
+one click uninstall aliyun(alibabacloud) aegis(system sniffer) 一键删除阿里云安骑士
 
 # 如何使用
  
