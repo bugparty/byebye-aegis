@@ -83,5 +83,5 @@ sudo rm -rf /usr/local/aegis
 sudo rm /usr/sbin/aliyun-service
 
 sudo rm /lib/systemd/system/aliyun.service
-
+sudo systemctl disable aliyun
 echo -e "$green uninstall succeed! $none"
